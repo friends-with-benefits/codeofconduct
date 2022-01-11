@@ -42,7 +42,7 @@ The FWB Code of Conduct applies equally to all members of the community, includi
 
 ### **Reporting An Issue**
 
-Users who wish to report an issue can open a ticket using the [TBD] system.
+Users who wish to report an issue can open a ticket using the [submission form](https://f-w-b.typeform.com/COCreport).
 
  Our moderation team will review the submission as promptly as possible and address the issue to the best of its abilities.
 
