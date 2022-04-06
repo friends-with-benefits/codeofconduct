@@ -42,11 +42,14 @@ The FWB Code of Conduct applies equally to all members of the community, includi
 
 ### **Reporting An Issue**
 
-Users who wish to report an issue can open a ticket using the [submission form](https://f-w-b.typeform.com/COCreport).
+Users who wish to report an issue can open a ticket can do any of the following (in order of increasing privacy): 
+- post their issue in #🕊-ombuds-general in the Bankless DAO discord
+- DM any users with the @Ombudsman role
+- email ombudsbanklessdao@gmail.com
 
- Our moderation team will review the submission as promptly as possible and address the issue to the best of its abilities.
+The ombuds team will review the submission as promptly as possible and address the issue to the best of its abilities.
 
- You may be contacted by an anonymous FWB Mod account in a private channel visible only to you and the moderator(s) to ask for additional information if it is required.
+~~You may be contacted by an anonymous FWB Mod account in a private channel visible only to you and the moderator(s) to ask for additional information if it is required.~~
 
 ### **Moderation Procedures**
 
