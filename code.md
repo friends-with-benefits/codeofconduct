@@ -49,6 +49,16 @@ Users who wish to report an issue can open a ticket can do any of the following 
 
 The ombuds team will review the submission as promptly as possible and address the issue to the best of its abilities.
 
+An ombuds responds openly tto ask if they would like to take an issue private
+- info shared
+- info shared with 5 ombuds anonymously
+- "hearing session" ombuds chat with 1st contact or other ombuds
+-   share info
+-   contact more people as needed
+- how can the situation be resolved satisfactorily?
+- "neutral arbitration process"
+- post-case review process with aggrieved parties
+
 ~~You may be contacted by an anonymous FWB Mod account in a private channel visible only to you and the moderator(s) to ask for additional information if it is required.~~
 
 ### **Moderation Procedures**
