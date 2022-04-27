@@ -1,9 +1,9 @@
 #
 # **Code of Conduct**
 
-Friends With Benefits is committed to fostering a friendly, safer, and comfortable environment for all, regardless of sex, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, race, ethnicity, religion, nationality, age, or level of experience.
+Bankless DAO (bDAO) is committed to fostering a friendly, safer, and comfortable environment for all, regardless of sex, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, race, ethnicity, religion, nationality, age, or level of experience.
 
-Members are expected to proactively support the creation of a safer environment within the FWB server.
+Members are expected to proactively support the creation of a safer environment within the bDAO server.
 
 ### **Our Goal**
 
@@ -36,9 +36,9 @@ The goal of this document is to set the overall tone for our community. This isn
 
 ### **Scope**
 
-This Code of Conduct applies to all spaces managed by or related to an individual&#39;s status as a member of Friends With Benefits. This includes (but is not limited to) the Discord server itself, IRL FWB meet-ups and events, Metaverse spaces, and collaborative platforms utilized for FWB projects like Miro, Notion, Figma, and Google Docs. Violations of this code outside of these spaces may also affect a person&#39;s ability to participate within them.
+This Code of Conduct applies to all spaces managed by or related to an individual&#39;s status as a member of Bankless DAO. This includes (but is not limited to) the Discord server itself, IRL bDAO meet-ups and events, Metaverse spaces, and collaborative platforms utilized for bDAO projects like Miro, Notion, Figma, and Google Docs. Violations of this code outside of these spaces may also affect a person&#39;s ability to participate within them.
 
-The FWB Code of Conduct applies equally to all members of the community, including staff.
+The bDAO Code of Conduct applies equally to all members of the community, including staff.
 
 ### **Reporting An Issue**
 
@@ -49,27 +49,33 @@ Users who wish to report an issue can open a ticket can do any of the following 
 
 The ombuds team will review the submission as promptly as possible and address the issue to the best of its abilities.
 
-An ombuds responds openly tto ask if they would like to take an issue private
-- info shared
-- info shared with 5 ombuds anonymously
-- "hearing session" ombuds chat with 1st contact or other ombuds
--   share info
--   contact more people as needed
-- how can the situation be resolved satisfactorily?
-- "neutral arbitration process"
-- post-case review process with aggrieved parties
+#### to answer: Who are the ombuds??
+👉 The Ombuds office is an informal, impartial, neutral and confidential place for community members to address concerns that may arise while participating in the DAO.
 
-~~You may be contacted by an anonymous FWB Mod account in a private channel visible only to you and the moderator(s) to ask for additional information if it is required.~~
+👉 At the request of any DAO member, the Ombuds office can address complaints, hear the involved member/s, and it can suggest resolutions between the member/s, and make non-binding recommendations for structural solutions to the DAO membership.
 
-### **Moderation Procedures**
+👉 Members may contact the Ombuds office to report any forms or types of abuse, dysfunctions, shortfalls, delays, grievances or violations concerning the functioning of the DAO, its mission and values.
 
-The FWB mods are an anonymous committee made up of community members that have volunteered and been approved to help evaluate conflicts, with an eye towards reaching resolutions that uphold the community&#39;s values and that reach towards a restorative approach rather than a punitive one as much as possible.
+👉 Members contacting the Ombuds are entitled to anonymity. The Ombuds office works to maintain our members right to anonymity👥 , of any witnesses, information and data obtained while performing the assigned functions.
+
+### bDAO moderation process
+#### process
+An ombuds responds openly to ask if the aggrieved party would like to take an issue private if the issue is raised in public.
+
+A hearing session of ombuds gather to discuss the issue at hand where the issue information is shared and they reach out to more people as needed. To reach a satisfactory conclusion, of paramount importance is how can the situation be respolved to the satisfation of injured parties? Ombuds serve as a neutral liaisons and points of contact for involved parties.
+
+Multiple rounds of back and forth may be called in order to resolve the issue. This concludes with a post-case review with both parties' input.
+
+### TO CHANGE **FWB Moderation Procedures** -- enforcement needed for bDAO
+
+The bDAO mods are an anonymous committee made up of community members that have volunteered and been approved to help evaluate conflicts, with an eye towards reaching resolutions that uphold the community&#39;s values and that reach towards a restorative approach rather than a punitive one as much as possible.
 
 There will be three mods, selected randomly from a pool of applicants that have been pre-screened by the Membership Committee in a blind review process. The approved applicants will be compensated and rotated out on a bi-seasonal basis; they will be under a confidentiality agreement to protect the privacy of parties involved in disputes, and will also be expected to recuse themselves from mediating any issues in which they have a conflict of interest.
 
-Moderator decisions are issued in written form by a Mediator that does not partake in the moderation process directly. They serve as a neutral liaison and point of contact for involved parties.
+~~Moderator decisions are issued in written form by a Mediator that does not partake in the moderation process directly. They serve as a neutral liaison and point of contact for involved parties.~~
 
-Decisions can be appealed through the same Mediator, providing members a second chance at explaining a situation to a second set of approved moderators who were not involved in the initial decision. There is only one appeal allowed per case.
+#### Appeals process?
+Decisions can be appealed through the same Ombuds, providing members a second chance at explaining a situation to a second set of approved moderators who were not involved in the initial decision. There is only one appeal allowed per case.
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
@@ -77,4 +83,4 @@ If a participant continues to engage in harassing behavior, the admins may take 
 
 ### **Attribution**
 
-This code of conduct documentation draws from the following antecedents: Annalee Flower Horne&#39;s [Sample Slack Code of Conduct](https://gist.github.com/annalee/2cddeff11357c3a8a613583ebca4dc17), Geek Feminism&#39;s [Community Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Community_anti-harassment/Policy), Python&#39;s [Discord Code of Conduct](https://pythondiscord.com/pages/code-of-conduct/).
+This code of conduct documentation draws from the following antecedents: Annalee Flower Horne&#39;s [Sample Slack Code of Conduct](https://gist.github.com/annalee/2cddeff11357c3a8a613583ebca4dc17), Geek Feminism&#39;s [Community Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Community_anti-harassment/Policy), Python&#39;s [Discord Code of Conduct](https://pythondiscord.com/pages/code-of-conduct/), and Friends With Benefits' [Code of Conduct]().
