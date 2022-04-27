@@ -83,4 +83,4 @@ If a participant continues to engage in harassing behavior, the admins may take 
 
 ### **Attribution**
 
-This code of conduct documentation draws from the following antecedents: Annalee Flower Horne&#39;s [Sample Slack Code of Conduct](https://gist.github.com/annalee/2cddeff11357c3a8a613583ebca4dc17), Geek Feminism&#39;s [Community Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Community_anti-harassment/Policy), Python&#39;s [Discord Code of Conduct](https://pythondiscord.com/pages/code-of-conduct/), and Friends With Benefits' [Code of Conduct]().
+This code of conduct documentation draws from the following antecedents: Annalee Flower Horne&#39;s [Sample Slack Code of Conduct](https://gist.github.com/annalee/2cddeff11357c3a8a613583ebca4dc17), Geek Feminism&#39;s [Community Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Community_anti-harassment/Policy), Python&#39;s [Discord Code of Conduct](https://pythondiscord.com/pages/code-of-conduct/), and Friends With Benefits' [Code of Conduct](https://github.com/friends-with-benefits/codeofconduct).
