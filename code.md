@@ -50,7 +50,7 @@ Users who wish to report an issue can open a ticket can do any of the following 
 The ombuds team will review the submission as promptly as possible and address the issue to the best of its abilities.
 
 #### to answer: Who are the ombuds??
-👉 The Ombuds office is an informal, impartial, neutral and confidential place for community members to address concerns that may arise while participating in the DAO.
+👉🤣 The Ombuds office is an informal, impartial, neutral and confidential place for community members to address concerns that may arise while participating in the DAO.
 
 👉 At the request of any DAO member, the Ombuds office can address complaints, hear the involved member/s, and it can suggest resolutions between the member/s, and make non-binding recommendations for structural solutions to the DAO membership.
 
