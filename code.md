@@ -42,17 +42,15 @@ The FWB Code of Conduct applies equally to all members of the community, includi
 
 ### **Reporting An Issue**
 
-Users who wish to report an issue can open a ticket using the [submission form](https://f-w-b.typeform.com/COCreport).
+Users who wish to report an issue can open a ticket using the [submission form](https://airtable.com/appkkMQpokyJYLa8N/pagDFht5wNKUqUaUf/form).
 
- Our moderation team will review the submission as promptly as possible and address the issue to the best of its abilities.
-
- You may be contacted by an anonymous FWB Mod account in a private channel visible only to you and the moderator(s) to ask for additional information if it is required.
+Our community council will review the submission as promptly as possible and address the issue to the best of its abilities. You may be contacted by the community council email to ask for additional details.
 
 ### **Moderation Procedures**
 
-The FWB mods are an anonymous committee made up of community members that have volunteered and been approved to help evaluate conflicts, with an eye towards reaching resolutions that uphold the community&#39;s values and that reach towards a restorative approach rather than a punitive one as much as possible.
+The FWB community council is made up of community members that have volunteered and been approved to help evaluate conflicts, with an eye towards reaching resolutions that uphold the community&#39;s values and that reach towards a restorative approach rather than a punitive one as much as possible.
 
-There will be three mods, selected randomly from a pool of applicants that have been pre-screened by the Membership Committee in a blind review process. The approved applicants will be compensated and rotated out on a bi-seasonal basis; they will be under a confidentiality agreement to protect the privacy of parties involved in disputes, and will also be expected to recuse themselves from mediating any issues in which they have a conflict of interest.
+There will be under a confidentiality agreement to protect the privacy of parties involved in disputes, and will also be expected to recuse themselves from mediating any issues in which they have a conflict of interest.
 
 Moderator decisions are issued in written form by a Mediator that does not partake in the moderation process directly. They serve as a neutral liaison and point of contact for involved parties.
 
